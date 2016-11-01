@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a9bdfca-788f-47f9-93bd-11576e831ecf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/main.9bf3b931c2b34195d977.bundle.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/inline.js" afterPath="$PROJECT_DIR$/static/js/inline.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Portfolio/static/js/main.9bf3b931c2b34195d977.bundle.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Portfolio/static/js/inline.js" afterPath="$PROJECT_DIR$/Portfolio/static/js/inline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Portfolio/static/js/styles.b52d2076048963e7cbfd.bundle.js" afterPath="$PROJECT_DIR$/Portfolio/static/js/styles.b52d2076048963e7cbfd.bundle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
     <ignored path="Portfolio.iws" />
@@ -67,7 +67,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
+            <state relative-caret-position="178">
               <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
               <folding />
             </state>
@@ -573,7 +573,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
+        <state relative-caret-position="178">
           <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
           <folding />
         </state>

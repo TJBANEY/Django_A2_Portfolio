@@ -1,0 +1,157 @@
+.products-section {
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+}
+
+.testimonials-content {
+  position: absolute;
+  left: 5%;
+  right: 5%;
+  top: 80px;
+  height: 300px;
+  border: 6px solid #021c3a;
+  background-color: #0587d2;
+  opacity: .6
+}
+
+.cruise-ship {
+  /*position: absolute;*/
+  /*top: 452px;*/
+  left: -500px;
+  animation: sailOn 70s linear infinite;
+}
+
+.testimonials-arrow {
+  border: solid transparent;
+  content: '';
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-top-color: #021c3a;
+  border-width: 35px;
+  bottom: -75px;
+  left: 20px;
+  animation: arrowForward 70s linear infinite;
+}
+
+.beach-sand {
+  position: absolute;
+  bottom: 0px;
+  animation: waves 40s infinite;
+}
+
+@-webkit-keyframes sailOn {
+  from {
+    left: -500px;
+  }
+
+  to {
+    left: 1600px;
+  }
+}
+
+@-webkit-keyframes arrowForward {
+  from {
+    left: 20px;
+  }
+
+  to {
+    left: 1100px;
+  }
+}
+
+@-webkit-keyframes waves {
+  0% {
+    bottom: 60px;
+  }
+
+  10% {
+    bottom: 0px;
+  }
+
+  20% {
+    bottom: 60px;
+  }
+
+  30% {
+    bottom: 0px;
+  }
+
+  40% {
+    bottom: 60px;
+  }
+
+  50% {
+    bottom: 0px;
+  }
+
+  60% {
+    bottom: 60px;
+  }
+
+  70% {
+    bottom: 0px;
+  }
+
+  80% {
+    bottom: 60px;
+  }
+
+  90% {
+    bottom: 0px;
+  }
+
+  100% {
+    bottom: 60px;
+  }
+}
+
+.palm-tree {
+  position: absolute;
+  width: 390px;
+  height: 460px;
+  bottom: -5px;
+  right: -30px;
+}
+
+@media (max-width: 1024px){
+  .palm-tree {
+    width: 320px;
+    height: 480px;
+    bottom: -105px;
+    right: -40px;
+  }
+}
+
+@media (max-width: 776px){
+  .palm-tree {
+    right: -60px !important;
+  }
+}
+
+@media (max-width: 425px){
+  .palm-tree {
+    display: none;
+  }
+
+  .beach-sand {
+    display: none;
+  }
+
+  .cruise-ship {
+    display: none;
+  }
+
+  .testimonials-arrow {
+    display: none;
+  }
+
+  .testimonials-content {
+    height: 350px;
+  }
+}

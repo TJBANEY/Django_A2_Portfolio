@@ -1,0 +1,149 @@
+.skill {
+  float: left;
+  cursor: pointer;
+}
+
+#python, #node, #django, #angular2 {
+  margin-right: 7%;
+  margin-top: 30px;
+}
+
+#responsive {
+  margin-right: 4%;
+  margin-top: 30px;
+}
+
+#basics, #bootstrap, #bower, #treehouse {
+  margin-right: 5%;
+}
+
+#phoenix {
+  margin-right: 4%;
+}
+
+#basics {
+  margin-left: 4%;
+}
+
+#bootstrap {
+  /*height: 180px;*/
+}
+
+#basics, #bootstrap {
+  width: 15%;
+}
+
+#basics, #bower {
+  /*height: 160px;*/
+}
+
+#bower, #treehouse, #phoenix {
+  width: 13.5%
+}
+
+#treehouse, #phoenix {
+  /*height: 170px;*/
+}
+
+#python, #node, #django, #angular2 {
+  /*height: 110px;*/
+}
+
+#responsive {
+  /*height: 160px;*/
+}
+
+#python, #angular2 {
+  width: 7.5%
+}
+
+#python {
+  margin-left: 4%;
+}
+
+#node {
+  width: 13%
+}
+
+#django {
+  width: 23%
+}
+
+#responsive {
+  width: 11%
+}
+
+.skill img {
+  width: 100%;
+}
+
+.content-container-2 {
+  padding: 0 25%;
+  margin-top: 1%;
+}
+
+.content-container-2 p {
+  font-family: Chalkduster;
+  color: #f0f0f0;
+  font-size: 28px;
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+
+@media (max-width: 992px){
+  .content-container-2 {
+    padding: 0 16%;
+    margin-top: 2%;
+  }
+}
+
+@media (max-width: 777px){
+  .content-container-2 {
+    padding: 0 15%;
+    margin-top: 7%;
+  }
+}
+
+@media (max-width: 540px) {
+  .content-container-2 {
+    padding: 0 5%;
+    margin-top: 10%;
+  }
+
+  .content-container-2 p {
+    font-size: 25px !important;
+  }
+
+  .bottom-skill-container {
+    margin-top: 40px;
+  }
+}
+
+@media (max-width: 440px){
+  .content-container-2 {
+    padding: 0 7%;
+    margin-top: 8%;
+  }
+
+  .bottom-skill-container {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .content-container-2 {
+    padding: 0 7%;
+    margin-top: 10%;
+  }
+
+  .content-container-2 p {
+    font-size: 22px !important;
+  }
+}
+
+@media (max-width: 320px) {
+  .content-container-2 {
+    padding: 0 5%;
+  }
+}

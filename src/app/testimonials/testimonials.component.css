@@ -1,0 +1,136 @@
+.testimonials-section {
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+}
+
+div.box {
+  width: 35%;
+	position: relative;
+	overflow: hidden;
+	background: #ddd;
+}
+
+svg {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+svg line {
+	stroke-width: 10;
+	fill: none;
+	-webkit-transition: -webkit-transform .6s ease-out;
+	transition: transform .6s ease-out;
+}
+
+.box1 svg line {
+  stroke: red;
+}
+
+.box2 svg line {
+  stroke: lime;
+}
+
+.box3 svg line {
+  stroke: blue;
+}
+
+.box4 svg line {
+  stroke: yellow;
+}
+
+svg line.top, svg line.bottom {
+  stroke-dasharray: 500px;
+}
+
+svg line.left, svg line.right {
+  stroke-dasharray: 290px;
+}
+
+div.box:hover svg line.top {
+  -webkit-transform: translateX(500px);
+  transform: translateX(500px);
+}
+
+div.box:hover svg line.bottom {
+  -webkit-transform: translateX(-500px);
+  transform: translateX(-500px);
+}
+
+div.box:hover svg line.left {
+  -webkit-transform: translateY(300px);
+  transform: translateY(300px);
+}
+
+div.box:hover svg line.right {
+  -webkit-transform: translateY(-300px);
+  transform: translateY(-300px);
+}
+
+@media (max-width: 800px) {
+  .box2, .box3 {
+    margin-left: 14% !important;
+    margin-right: 4% !important;
+  }
+
+  .box3, .box4 {
+    margin-top: 35px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .box2, .box3 {
+    margin-left: 2% !important;
+    margin-right: 1% !important;
+  }
+
+  .box1, .box4 {
+    margin-right: 1% !important;
+  }
+
+  div.box {
+    width: 46%;
+  }
+
+  .box3, .box4 {
+    margin-top: 10px !important;
+  }
+
+  svg line {
+    stroke-width: 6;
+  }
+}
+
+@media (max-width: 401px){
+  .box2, .box3 {
+    margin-left: 1% !important;
+    margin-right: 0px;
+  }
+
+  .box1, .box4 {
+    margin-right: 0px;
+    border: 0px;
+  }
+}
+
+@media (max-width: 360px){
+  div.box {
+    width: 60%;
+    margin-left: 20% !important;
+  }
+
+  .testimonials-section h1 {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 310px){
+  div.box {
+    width: 75%;
+    margin-left: 13% !important;
+  }
+}

@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a9bdfca-788f-47f9-93bd-11576e831ecf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Portfolio/static/js/main.9bf3b931c2b34195d977.bundle.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Portfolio/static/js/inline.js" afterPath="$PROJECT_DIR$/Portfolio/static/js/inline.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Portfolio/static/js/styles.b52d2076048963e7cbfd.bundle.js" afterPath="$PROJECT_DIR$/Portfolio/static/js/styles.b52d2076048963e7cbfd.bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-    </list>
+    <list default="true" id="9a9bdfca-788f-47f9-93bd-11576e831ecf" name="Default" comment="" />
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />

@@ -19,6 +19,8 @@ from .views import view_home
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^api/v1/', include('api.urls'), name='api'),
+    url(r'^api-auth/', include('rest_framework.urls'), name='rest_framework'),
     url(r'^$', view_home),
     url(r'^blog$', include('blog.urls'))
 ]

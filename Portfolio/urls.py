@@ -17,9 +17,16 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from .views import view_home
 
+from rest_framework import routers
+from api.views import BlogViewSet, CommentViewSet
+
+router = routers.SimpleRouter()
+router.register(r'blogs', BlogViewSet)
+router.register(r'comments', CommentViewSet)
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^api/v1/', include('api.urls'), name='api'),
+    url(r'^api/v1/', include(router.urls), name='api'),
     url(r'^api-auth/', include('rest_framework.urls'), name='rest_framework'),
     url(r'^$', view_home),
     url(r'^blog$', include('blog.urls'))

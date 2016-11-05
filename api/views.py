@@ -76,3 +76,6 @@ class CommentViewSet(viewsets.ModelViewSet):
 #                         mixins.ListModelMixin,
 #                         viewsets.GenericViewSet):
 #     pass
+
+
+#### REMEMBER TO CHECK OUT THROTTLING / AUTHENTICATION

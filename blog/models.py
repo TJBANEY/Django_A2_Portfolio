@@ -6,7 +6,6 @@ class Subscriber(models.Model):
     last_name = models.CharField(max_length=100, null=True, blank=True)
     username = models.CharField(max_length=200)
     email = models.EmailField()
-    photo = models.ImageField()
 
     joined = models.DateTimeField(auto_now_add=True)
 

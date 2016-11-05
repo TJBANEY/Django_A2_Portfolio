@@ -2,229 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a9bdfca-788f-47f9-93bd-11576e831ecf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ach/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ar/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/be/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ca/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ca_ES/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/cs/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/da/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/de/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/el/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/el_GR/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/en/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/en_AU/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/en_CA/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/en_US/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/es/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/et/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/fa/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/fa_IR/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/fi/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/fr/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/fr_CA/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/gl/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/gl_ES/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/he_IL/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/hu/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/id/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/it/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ja/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ko_KR/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/mk/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/nb/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/nl/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/nn/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/no/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/pl/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/pt/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/pt_BR/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/pt_PT/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ro/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ru/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/sk/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/sv/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/tr/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/tr_TR/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/uk/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/vi/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/zh_CN/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/zh_Hans/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/zh_Hant/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/zh_TW/LC_MESSAGES/django.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/img/grid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/authentication.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/authtoken/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/authtoken/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/authtoken/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/authtoken/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/authtoken/migrations/0002_auto_20160226_1747.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/authtoken/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/authtoken/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/authtoken/serializers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/authtoken/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/decorators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/exceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/fields.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/filters.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/generics.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ach/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ar/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/be/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ca/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ca_ES/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/cs/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/da/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/de/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/el/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/el_GR/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/en/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/en_AU/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/en_CA/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/en_US/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/es/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/et/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/fa/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/fa_IR/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/fi/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/fr/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/fr_CA/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/gl/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/gl_ES/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/he_IL/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/hu/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/id/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/it/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ja/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ko_KR/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/mk/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/nb/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/nl/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/nn/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/no/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/pl/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/pt/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/pt_BR/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/pt_PT/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ro/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/ru/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/sk/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/sv/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/tr/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/tr_TR/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/uk/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/vi/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/zh_CN/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/zh_Hans/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/zh_Hant/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/locale/zh_TW/LC_MESSAGES/django.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/metadata.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/mixins.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/negotiation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/pagination.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/parsers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/permissions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/relations.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/renderers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/request.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/response.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/reverse.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/routers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/schemas.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/serializers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/css/bootstrap-tweaks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/js/ajax-form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/js/csrf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/js/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/js/jquery-1.12.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/static/rest_framework/js/prettify-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/status.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/admin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/admin/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/admin/dict_value.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/admin/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/admin/list_value.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/admin/simple_list_value.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/api.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/filters/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/filters/django_filter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/filters/django_filter_crispyforms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/filters/ordering.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/filters/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/horizontal/checkbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/horizontal/checkbox_multiple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/horizontal/fieldset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/horizontal/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/horizontal/input.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/horizontal/list_fieldset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/horizontal/radio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/horizontal/select.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/horizontal/select_multiple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/horizontal/textarea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/inline/checkbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/inline/checkbox_multiple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/inline/fieldset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/inline/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/inline/input.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/inline/list_fieldset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/inline/radio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/inline/select.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/inline/select_multiple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/inline/textarea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/login_base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/pagination/numbers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/pagination/previous_and_next.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/raw_data_form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/vertical/checkbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/vertical/checkbox_multiple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/vertical/fieldset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/vertical/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/vertical/input.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/vertical/list_fieldset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/vertical/radio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/vertical/select.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/vertical/select_multiple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templates/rest_framework/vertical/textarea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templatetags/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/templatetags/rest_framework.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/throttling.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/urlpatterns.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/breadcrumbs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/encoders.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/field_mapping.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/formatting.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/html.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/humanize_datetime.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/mediatypes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/model_meta.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/representation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/serializer_helpers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/utils/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/validators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/versioning.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest_framework/viewsets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/models.py" afterPath="$PROJECT_DIR$/blog/models.py" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -259,11 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Portfolio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
               <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -279,7 +69,6 @@
       <list>
         <option value="$PROJECT_DIR$/Portfolio/views.py" />
         <option value="$PROJECT_DIR$/templates/blog.html" />
-        <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/admin.py" />
         <option value="$PROJECT_DIR$/Portfolio/settings.py" />
@@ -289,6 +78,7 @@
         <option value="$PROJECT_DIR$/Portfolio/urls.py" />
         <option value="$PROJECT_DIR$/api/views.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/blog/models.py" />
       </list>
     </option>
   </component>
@@ -334,6 +124,14 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Django_A2_Portfolio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.5.2 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -656,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478376460858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add rest framework app for production.">
+      <created>1478385464790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1478385464790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -670,7 +475,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822478" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -696,7 +501,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="png to img change" />
-    <option name="LAST_COMMIT_MESSAGE" value="png to img change" />
+    <MESSAGE value="add rest framework app for production." />
+    <option name="LAST_COMMIT_MESSAGE" value="add rest framework app for production." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -973,13 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1045,6 +844,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
           <folding />
         </state>
       </provider>

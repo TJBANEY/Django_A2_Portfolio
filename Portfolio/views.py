@@ -3,4 +3,8 @@ from django.shortcuts import render
 
 
 def view_home(request):
-    return render(request, 'index.html', {})
+    response = render(request, "index.html", {})
+
+    response['Cache-Control'] = 'max-age=602000'
+
+    return response

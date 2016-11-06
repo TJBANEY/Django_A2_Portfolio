@@ -15,6 +15,9 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
+from django.contrib.flatpages import sitemaps
+from django.contrib.sitemaps.views import sitemap
+
 from .views import view_home
 
 from rest_framework import routers
@@ -25,6 +28,8 @@ router.register(r'blogs', BlogViewSet)
 router.register(r'comments', CommentViewSet)
 
 urlpatterns = [
+    url(r'^sitemap\.xml$', sitemap, {'sitemaps': sitemaps},
+        name='django.contrib.sitemaps.views.sitemap'),
     url(r'^$', view_home),
     url(r'^admin/', admin.site.urls),
     url(r'^api/v1/', include(router.urls), name='api'),

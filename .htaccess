@@ -1,6 +1,7 @@
 <IfModule mod_expires.c>
-    <Filesmatch "\.(jpg|jpeg|png|gif|ico)$">
-        ExpiresActive on
-        ExpiresDefault "access plus 365 days"
-    </Filesmatch>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 seconds"
+  ExpiresByType image/gif "access plus 120 minutes"
+  ExpiresByType image/jpeg "access plus 120 minutes"
+  ExpiresByType image/png "access plus 120 minutes"
 </IfModule>

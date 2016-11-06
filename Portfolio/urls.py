@@ -15,13 +15,15 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
-from django.contrib.flatpages import sitemaps
 from django.contrib.sitemaps.views import sitemap
 
 from .views import view_home
 
 from rest_framework import routers
 from api.views import BlogViewSet, CommentViewSet
+from .models import Sitemap
+
+sitemaps = {'blog': Sitemap}
 
 router = routers.SimpleRouter()
 router.register(r'blogs', BlogViewSet)

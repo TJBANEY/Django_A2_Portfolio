@@ -2,42 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a9bdfca-788f-47f9-93bd-11576e831ecf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/about-me.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/angular2-favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/atlas .png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/atlas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/beach-sand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard-angular2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard-basics.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard-bootstrap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard-bower.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard-django.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard-node.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard-python.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard-responsive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard-title.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard-treehouse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/chalkboard_uni_phoenix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/cleanbeachbg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/computer-desk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/creekkooler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/cruiseship2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/full-chalkboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/github.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/hero-mountains.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/humanlink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/myphones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/palmtreelean.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/pets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/so-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/starry-night.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/inline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/main.a264c58ddb4788b399a5.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/styles.b52d2076048963e7cbfd.bundle copy.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Portfolio/settings.py" afterPath="$PROJECT_DIR$/Portfolio/settings.py" />
     </list>
     <ignored path="Portfolio.iws" />
@@ -88,8 +52,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Portfolio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="130" column="16" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
+            <state relative-caret-position="232">
+              <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -934,8 +898,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Portfolio/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="130" column="16" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
+        <state relative-caret-position="232">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
           <folding />
         </state>
       </provider>

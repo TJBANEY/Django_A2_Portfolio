@@ -39,4 +39,4 @@ urlpatterns = [
     url(r'^api/v1/', include(router.urls), name='api'),
     url(r'^api-auth/', include('rest_framework.urls'), name='rest_framework'),
     url(r'^blog', include('blog.urls'))
-] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+]

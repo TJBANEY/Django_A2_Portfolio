@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a9bdfca-788f-47f9-93bd-11576e831ecf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Portfolio/static/js/main.864a3b84f51887300c59.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Portfolio/static/js/styles.b52d2076048963e7cbfd.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Portfolio/static/js/main.ff7a9ec84877d71ea704.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Portfolio/static/js/main.ff7a9ec84877d71ea704.bundle.js.gz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Portfolio/static/js/inline.js" afterPath="$PROJECT_DIR$/Portfolio/static/js/inline.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
@@ -65,8 +65,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="176">
+              <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -889,8 +889,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="176">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
           <folding />
         </state>
       </provider>

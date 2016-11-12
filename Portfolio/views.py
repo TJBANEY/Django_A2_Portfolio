@@ -1,4 +1,6 @@
 import datetime
+
+from django.conf import settings
 from django.http import HttpResponse
 from django.shortcuts import render
 
@@ -9,5 +11,7 @@ def view_home(request):
 
     response['Cache-Control'] = 'max-age=602000'
     response['Expires'] = expiry_date
+
+    print(settings.STATIC_ROOT)
 
     return response

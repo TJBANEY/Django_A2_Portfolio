@@ -118,7 +118,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = '/home/timbaney1989/webapps/baneydev_static5'
+STATIC_ROOT = '/home/timbaney1989/webapps/static'
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "Portfolio/static")

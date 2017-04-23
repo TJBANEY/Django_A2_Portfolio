@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a9bdfca-788f-47f9-93bd-11576e831ecf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/about-me.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/about-me.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/angular2-favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/atlas .png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/atlas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/beach-sand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-angular2-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-angular2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-basics-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-basics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-bootstrap-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-bootstrap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-bower-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-bower.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-django-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-django.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-node-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-node.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-python-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-python.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-responsive-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-responsive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-treehouse-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard-treehouse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard_uni_phoenix-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/chalkboard_uni_phoenix.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/cleanbeachbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/computer-desk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/creekkooler.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/cruiseship2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/full-chalkboard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/full-chalkboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/github.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/hero-mountains-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/hero-mountains.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/humanlink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/linkedin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/myphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/palmtreelean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/so-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/starry-night.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/starry-night.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/twitter.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Portfolio/settings.py" afterPath="$PROJECT_DIR$/Portfolio/settings.py" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -135,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Portfolio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="169">
+              <caret line="120" column="48" selection-start-line="120" selection-start-column="48" selection-end-line="120" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -185,8 +140,8 @@
         <option value="$PROJECT_DIR$/Portfolio/urls.py" />
         <option value="$PROJECT_DIR$/templates/blog.html" />
         <option value="$PROJECT_DIR$/Portfolio/views.py" />
-        <option value="$PROJECT_DIR$/Portfolio/settings.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/Portfolio/settings.py" />
       </list>
     </option>
   </component>
@@ -255,7 +210,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
+              <option name="myItemId" value="Portfolio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -631,7 +586,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492984563722</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Move static images into static folder.">
+      <created>1492984711121</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1492984711121</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -676,7 +638,8 @@
     <MESSAGE value="Edit allowed hosts." />
     <MESSAGE value="Uncomment out scripts" />
     <MESSAGE value="Template Edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Template Edits" />
+    <MESSAGE value="Move static images into static folder." />
+    <option name="LAST_COMMIT_MESSAGE" value="Move static images into static folder." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1119,14 +1082,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Portfolio/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1172,6 +1127,14 @@
             <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Portfolio/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="120" column="48" selection-start-line="120" selection-start-column="48" selection-end-line="120" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>

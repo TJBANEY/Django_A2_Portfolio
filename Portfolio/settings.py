@@ -24,7 +24,7 @@ SECRET_KEY = 'f&i!e#l=_$cihdwx73q&vh8ja_yi$flgth^fx05wysa59yrz+7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['timbaney.webfactional.com']
+ALLOWED_HOSTS = ['timbaney1989.webfactional.com']
 
 # Application definition
 

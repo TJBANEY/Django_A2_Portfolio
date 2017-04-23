@@ -1,0 +1,158 @@
+.hero-section {
+  background-image: url('/static/images/starry-night.png');
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+}
+
+#st-panel-2 {
+  background-image: url('/static/images/full-chalkboard.png') !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.star {
+  display:block;
+  width:4px;
+  height:4px;
+  border-radius:50%;
+  background:#FFF;
+  top:100px;
+  left:400px;
+  position:relative;
+  transform-origin:100% 0;
+  animation:star-ani 1s infinite ease-out;
+  animation-direction: normal;
+  opacity:0;
+}
+.star:after {
+  content:'';
+  position:absolute;
+  top:0px;
+  left:4px;
+  border:2px solid #F00;
+  border-width:2px 150px 2px 150px;
+  border-color:transparent transparent transparent #FFF;
+  transform:rotate(-45deg) translate3d(1px, -1px, 0);
+  transform-origin:0% 100%;
+  animation:shooting-ani 1s infinite  ease-out;
+  animation-direction: normal;
+}
+
+.red {
+  top:130px;
+  left:300px;
+  background: white;
+  animation-delay:1.1s;
+}
+.red:after {
+  border-color:transparent transparent transparent white ;
+  animation-delay:1.1s;
+}
+
+.pink {
+  top:120px;
+  left:500px;
+  background: white;
+  animation-delay:2.4s;
+}
+.pink:after {
+  border-color:transparent transparent transparent white ;
+  animation-delay:2.4s;
+}
+
+.blue {
+  top:70px;
+  left:450px;
+  background: white ;
+  animation-delay:3.6s;
+}
+.blue:after {
+  border-color:transparent transparent transparent white;
+  animation-delay:3.6s;
+}
+
+.yellow {
+  top:50px;
+  left:650px;
+  background: white;
+  animation-delay:4.9s;
+}
+.yellow:after {
+  border-color:transparent transparent transparent white;
+  animation-delay:4.9s;
+}
+
+.orange {
+  top:130px;
+  left:800px;
+  background: white;
+  animation-delay:1.6s;
+}
+.orange:after {
+  border-color:transparent transparent transparent white ;
+  animation-delay:1.6s;
+}
+
+.purple {
+  top:120px;
+  left:1000px;
+  background: white;
+  animation-delay:2.9s;
+}
+.purple:after {
+  border-color:transparent transparent transparent white ;
+  animation-delay:2.9s;
+}
+
+.green {
+  top:70px;
+  left:950px;
+  background: white ;
+  animation-delay:4.1s;
+}
+.green:after {
+  border-color:transparent transparent transparent white;
+  animation-delay:4.1s;
+}
+
+.brown {
+  top:50px;
+  left:1150px;
+  background: white;
+  animation-delay:5.4s;
+}
+.brown:after {
+  border-color:transparent transparent transparent white;
+  animation-delay:5.4s;
+}
+
+@-webkit-keyframes shooting-ani {
+  0% {
+
+  }
+  50% {
+    transform:scale(1) rotate(-45deg) translate(0px, 0px);
+  }
+  100% {
+    transform:scale(0.5) rotate(-45deg) translate(0px, -1px);
+  }
+}
+
+@-webkit-keyframes star-ani {
+  0% {
+    opacity:0;
+    transform:scale(0) rotate(0) translate3d(0, 0, 0);
+  }
+  50% {
+    opacity:1;
+    transform:scale(1) rotate(0) translate3d(-200px, 200px, 0);
+  }
+  100% {
+    opacity:0;
+    transform:scale(1) rotate(0) translate3d(-300px, 300px, 0);
+  }
+}

@@ -71,7 +71,54 @@
                 </li>
             </ul>
 
-            <router-outlet></router-outlet>
+            <div class="row" style="margin-top: 40px;">
+                <div class="col-xs-12">
+                    <div style="padding: 0 18%;">
+                        <img src="/assets/images/chalkboard-title.png" alt="" style="display: block; width: 100%;">
+                    </div>
+                </div>
+                <div style="display: block; margin: 0 auto; float: left;">
+                    <div class="skill" id="python" (click)="showSkillInfo('python')">
+                        <img [src]="skills_image.python" alt="">
+                    </div>
+                    <div class="skill" id="node" (click)="showSkillInfo('node')">
+                        <img [src]="skills_image.node" alt="">
+                    </div>
+                    <div class="skill" id="angular2" (click)="showSkillInfo('angular2')">
+                        <img [src]="skills_image.angular2" alt="">
+                    </div>
+                    <div class="skill" id="django" (click)="showSkillInfo('django')">
+                        <img [src]="skills_image.django" alt="">
+                    </div>
+                    <div class="skill" id="responsive" (click)="showSkillInfo('responsive')">
+                        <img [src]="skills_image.responsive" alt="">
+                    </div>
+                </div>
+                <div class="chalkboard-content col-xs-12" style="float: left; min-height: 350px; width: 100%;">
+                    <div class="content-container-2">
+                        <p>
+                            {{ info }}
+                        </p>
+                    </div>
+                </div>
+                <div class="bottom-skill-container" style="display: block; float: left;">
+                    <div class="skill" id="basics" (click)="showSkillInfo('basics')">
+                        <img [src]="skills_image.basics" alt="">
+                    </div>
+                    <div class="skill" id="bootstrap" (click)="showSkillInfo('bootstrap')">
+                        <img [src]="skills_image.bootstrap" alt="">
+                    </div>
+                    <div class="skill" id="bower" (click)="showSkillInfo('bower')">
+                        <img [src]="skills_image.bower" alt="">
+                    </div>
+                    <div class="skill" id="treehouse" (click)="showSkillInfo('treehouse')">
+                        <img [src]="skills_image.treehouse" alt="">
+                    </div>
+                    <div class="skill" id="phoenix" (click)="showSkillInfo('phoenix')">
+                        <img [src]="skills_image.phoenix" alt="">
+                    </div>
+                </div>
+            </div>
 
         </div>
 

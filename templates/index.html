@@ -27,6 +27,12 @@
 
     </script>
 
+    <script>
+        function getSkillInfo(skill) {
+
+        }
+    </script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
 
@@ -101,14 +107,6 @@
                 </div>
             </section>
 
-            <section class="st-panel st-color" id="st-panel-2">
-                <app-skills></app-skills>
-            </section>
-
-            <section class="st-panel st-color" id="st-panel-5">
-                <app-contact></app-contact>
-            </section>
-
             <div class="row" style="margin-top: 40px;">
                 <div class="col-xs-12">
                     <div style="padding: 0 18%;">
@@ -117,19 +115,19 @@
                 </div>
                 <div style="display: block; margin: 0 auto; float: left;">
                     <div class="skill" id="python" (click)="showSkillInfo('python')">
-                        <img [src]="skills_image.python" alt="">
+                        <img src="/static/images/chalkboard-python.png" alt="">
                     </div>
                     <div class="skill" id="node" (click)="showSkillInfo('node')">
-                        <img [src]="skills_image.node" alt="">
+                        <img src="/static/images/chalkboard-node.png" alt="">
                     </div>
                     <div class="skill" id="angular2" (click)="showSkillInfo('angular2')">
-                        <img [src]="skills_image.angular2" alt="">
+                        <img src="/static/images/chalkboard-angular2.png" alt="">
                     </div>
                     <div class="skill" id="django" (click)="showSkillInfo('django')">
-                        <img [src]="skills_image.django" alt="">
+                        <img src="/static/images/chalkboard-django.png" alt="">
                     </div>
                     <div class="skill" id="responsive" (click)="showSkillInfo('responsive')">
-                        <img [src]="skills_image.responsive" alt="">
+                        <img src="/static/images/chalkboard-responsive.png" alt="">
                     </div>
                 </div>
                 <div class="chalkboard-content col-xs-12" style="float: left; min-height: 350px; width: 100%;">
@@ -141,10 +139,10 @@
                 </div>
                 <div class="bottom-skill-container" style="display: block; float: left;">
                     <div class="skill" id="basics" (click)="showSkillInfo('basics')">
-                        <img [src]="skills_image.basics" alt="">
+                        <img src="/static/images/chalkboard-basics.png" alt="">
                     </div>
                     <div class="skill" id="bootstrap" (click)="showSkillInfo('bootstrap')">
-                        <img [src]="skills_image.bootstrap" alt="">
+                        <img src="/static/images/chalkboard-bootstrap.png" alt="">
                     </div>
                     <div class="skill" id="bower" (click)="showSkillInfo('bower')">
                         <img [src]="skills_image.bower" alt="">

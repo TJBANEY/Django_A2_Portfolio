@@ -19,8 +19,8 @@
 }
 
 .cruise-ship {
-  /*position: absolute;*/
-  /*top: 452px;*/
+  position: absolute !important;
+  top: 452px !important;
   left: -500px;
   animation: sailOn 70s linear infinite;
 }

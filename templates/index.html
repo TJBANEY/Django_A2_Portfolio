@@ -31,6 +31,24 @@
         function getSkillInfo(skill) {
 
         }
+
+        function showSkillInfo(skill) {
+
+            var skills_list = {
+                'python': 'Python is probably my strongest skill. I vehemently promote this awesome easy to read, beautifully written code as the backend language of choice, and have worked on more than 12 web apps whose server side was written in python, …and a battleship script !',
+                'node': 'I typically only use node.js for package management, and requiring dependencies into my gulpfile for task running, however I am familiar with the server side language, and  have also played around with the Express framework in the past.',
+                'angular2': 'This site is completely done in Angular2. I have been teaching myself Angular2 for the past couple of months, even attending a conference to prepare myself for the stable release and all its glory. I also have experience creating applications with Angular.',
+                'django': "I have been professionally creating and contributing to content managed Django applications using the Pycharm IDE since February of 2016 at Mill Creek Software. I also have experience in Flask, and creating RESTful APIs with Django’s REST Framework.",
+                'responsive': 'I am skilled in creating responsive web applications using bootstrap and media queries to create smooth style transitions between multiple screen sizes.',
+                'basics': 'I have strong foundations in all the basics of web dev such as CSS3, HTML5, and EcmaScript5. I also use LESS to create well organized stylesheets, and can use JQuery for anything from page animations to asynchronous backend calls and functions.',
+                'bootstrap': 'A lot of the web apps I contribute to use bootstrap to create smooth responsive, mobile first designs.',
+                'bower': 'Some development tools that I can use include, but aren’t limited to: NPM, and Bower as package managers, Gulp as a task runner, PyCharm, Atom, and Sublime for IDEs and Text Editing, Bitbucket, Github, Slack, Photoshop, and Postman for API testing.',
+                'treehouse': 'I have a Python tech degree from Treehouse, an online coding tutorial site. The degree is a projected 12 month course consisting of 22 lessons, 72 quizzes, over 200 challenges, and 12 required projects.',
+                'phoenix': 'I attended the University of Phoenix …. In Phoenix in June of 2015, where I received certification for an immersive 3 month course in front end web development called RockIT Bootcamp. The course taught front end skills like CSS, HTML, and client/server-side Javascript.'
+            };
+
+            $('#skill-info').html(skills_list[skill]);
+        }
     </script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -108,7 +126,8 @@
                 </div>
             </section>
 
-            <section class="st-panel st-color" id="st-panel-2" style="background-image: url('/assets/images/full-chalkboard.png')">
+            <section class="st-panel st-color" id="st-panel-2"
+                     style="background-image: url('/assets/images/full-chalkboard.png')">
                 <div class="row" style="margin-top: 40px;">
                     <div class="col-xs-12">
                         <div style="padding: 0 18%;">
@@ -116,50 +135,51 @@
                         </div>
                     </div>
                     <div style="display: block; margin: 0 auto; float: left;">
-                        <div class="skill" id="python" (click)="showSkillInfo('python')">
+                        <div class="skill" id="python" onclick="showSkillInfo('python')">
                             <img src="/static/images/chalkboard-python.png" alt="">
                         </div>
-                        <div class="skill" id="node" (click)="showSkillInfo('node')">
+                        <div class="skill" id="node" onclick="showSkillInfo('node')">
                             <img src="/static/images/chalkboard-node.png" alt="">
                         </div>
-                        <div class="skill" id="angular2" (click)="showSkillInfo('angular2')">
+                        <div class="skill" id="angular2" onclick="showSkillInfo('angular2')">
                             <img src="/static/images/chalkboard-angular2.png" alt="">
                         </div>
-                        <div class="skill" id="django" (click)="showSkillInfo('django')">
+                        <div class="skill" id="django" onclick="showSkillInfo('django')">
                             <img src="/static/images/chalkboard-django.png" alt="">
                         </div>
-                        <div class="skill" id="responsive" (click)="showSkillInfo('responsive')">
+                        <div class="skill" id="responsive" onclick="showSkillInfo('responsive')">
                             <img src="/static/images/chalkboard-responsive.png" alt="">
                         </div>
                     </div>
                     <div class="chalkboard-content col-xs-12" style="float: left; min-height: 350px; width: 100%;">
                         <div class="content-container-2">
-                            <p>
-                                {{ info }}
+                            <p id="skill-info">
+
                             </p>
                         </div>
                     </div>
                     <div class="bottom-skill-container" style="display: block; float: left;">
-                        <div class="skill" id="basics" (click)="showSkillInfo('basics')">
+                        <div class="skill" id="basics" onclick="showSkillInfo('basics')">
                             <img src="/static/images/chalkboard-basics.png" alt="">
                         </div>
-                        <div class="skill" id="bootstrap" (click)="showSkillInfo('bootstrap')">
+                        <div class="skill" id="bootstrap" onclick="showSkillInfo('bootstrap')">
                             <img src="/static/images/chalkboard-bootstrap.png" alt="">
                         </div>
-                        <div class="skill" id="bower" (click)="showSkillInfo('bower')">
+                        <div class="skill" id="bower" onclick="showSkillInfo('bower')">
                             <img src="/static/images/chalkboard-bower.png" alt="">
                         </div>
-                        <div class="skill" id="treehouse" (click)="showSkillInfo('treehouse')">
+                        <div class="skill" id="treehouse" onclick="showSkillInfo('treehouse')">
                             <img src="/static/images/chalkboard-treehouse.png" alt="">
                         </div>
-                        <div class="skill" id="phoenix" (click)="showSkillInfo('phoenix')">
+                        <div class="skill" id="phoenix" onclick="showSkillInfo('phoenix')">
                             <img src="/static/images/chalkboard_uni_phoenix.png" alt="">
                         </div>
                     </div>
                 </div>
             </section>
 
-            <section class="st-panel st-color" id="st-panel-3" style="background-image: url('/static/images/starry-night.jpg'); background-attachment: fixed; background-size: cover">
+            <section class="st-panel st-color" id="st-panel-3"
+                     style="background-image: url('/static/images/starry-night.jpg'); background-attachment: fixed; background-size: cover">
                 <div class="row">
                     <div class="col-xs-12 projects-section" style="position: static;">
                         <div class="testimonials-content"
@@ -188,64 +208,65 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div style="background-color: #021c3d; position: relative; height: 830px;">
-                            <div class="contact-title">
+                            <div class="contact-title" style="">
                                 <h1>About Me</h1>
                             </div>
-                            <div class="bio-photo">
-                                <img src="/static/images/about-me.png" alt="" style="width: 100%; border-radius: 50%">
-                            </div>
-                            <div class="bio-content-container">
-                                <p class="bio-content">
-                                    Howdy ! My name is Timothy Baney, and I'm a web developer. I went
-                                    to school in Arizona, drifting through majors like many others do until
-                                    finally discovering the amazing world of code, and setting my sites on
-                                    Computer Science. I received certification from a coding bootcamp, and
-                                    eventually received a job offer in northwest Arkansas at a company called
-                                    Mill Creek Software where I create content managed web applications for
-                                    clients of all sorts. I live with my beautiful fiance, and 4 party animals.
-                                    When I'm not working on the information super highway, I like kayaking,
-                                    biking, and trying to tire out my german shepherd. I also love to travel.
-                                    If you'd like to get in touch with me about a website, remote work, or even
-                                    just to give me feedback about this site, please email or call me, or
-                                    visit me on social media.
-                                </p>
-                                <p class="phone-email">
-                                    <i class="fa fa-phone" style="margin-right: 5px;"></i><span
-                                        style="margin-right: 20px;">479-418-2865</span>
-                                    <a href="mailto:tim@millcreeksoftware.biz">
-                                        <i class="fa fa-envelope-o" style="margin-right: 5px;"></i>
-                                        <span>tim@millcreeksoftware.biz</span>
-                                    </a>
-                                </p>
-                            </div>
-                            <div class="social-icons">
-                                <div style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
-                                    <a href="https://www.linkedin.com/in/timothy-baney-b5293664" target="_blank">
-                                        <img src="/static/images/linkedin.png" alt="" style="width: 100%">
-                                    </a>
-                                </div>
-                                <div style="display: inline-block; width: 50px; height: 50px;">
-                                    <a href="https://twitter.com/timbaney1989?lang=en" target="_blank">
-                                        <img src="/static/images/twitter.png" alt="" style="width: 100%">
-                                    </a>
-                                </div>
-                                <div style="display: inline-block; width: 50px; height: 50px;">
-                                    <a href="http://stackoverflow.com/users/5159043/timothy-joseph-baney"
-                                       target="_blank">
-                                        <img src="/static/images/so-icon.png" alt="" style="width: 100%">
-                                    </a>
-                                </div>
-                                <div style="display: inline-block; width: 50px; height: 50px; margin-right: 5px;">
-                                    <a href="https://github.com/TJBANEY" target="_blank">
-                                        <img src="/static/images/github.png" alt="" style="width: 100%">
-                                    </a>
+                            <div class="col-xs-12" style="text-align: center">
+                                <div class="bio-photo" style="">
+                                    <img src="/static/images/about-me.png" alt=""
+                                         style="width: 100%; border-radius: 50%">
                                 </div>
                             </div>
-                            <div class="pets">
-                                <img src="/static/images/pets.png" alt="" style="width: 100%;">
+                            <div class="col-xs-12">
+                                <div class="bio-content-container">
+                                    <p class="bio-content">
+                                        Howdy ! My name is Timothy Baney, and I'm a web developer. I went
+                                        to school in Arizona, drifting through majors like many others do until
+                                        finally discovering the amazing world of code, and setting my sites on
+                                        Computer Science. I received certification from a coding bootcamp, and
+                                        eventually received a job offer in northwest Arkansas at a company called
+                                        Mill Creek Software where I create content managed web applications for
+                                        clients of all sorts. I live with my beautiful fiance, and 4 party animals.
+                                        When I'm not working on the information super highway, I like kayaking,
+                                        biking, and trying to tire out my german shepherd. I also love to travel.
+                                        If you'd like to get in touch with me about a website, remote work, or even
+                                        just to give me feedback about this site, please email me at <a href="mailto:timbaney1989@gmail.com">timbaney1989@gmail.com</a>
+                                    </p>
+{#                                    <p class="phone-email">#}
+{#                                        <i class="fa fa-phone" style="margin-right: 5px;"></i><span#}
+{#                                            style="margin-right: 20px;">479-418-2865</span>#}
+{#                                        <a href="mailto:tim@millcreeksoftware.biz">#}
+{#                                            <i class="fa fa-envelope-o" style="margin-right: 5px;"></i>#}
+{#                                            <span>tim@millcreeksoftware.biz</span>#}
+{#                                        </a>#}
+{#                                    </p>#}
+                                </div>
                             </div>
-                            <div class="desk">
-                                <img src="/static/images/computer-desk.png" alt="" style="width: 100%;">
+
+                            <div class="col-xs-12">
+                                <div class="social-icons">
+{#                                    <div style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">#}
+{#                                        <a href="https://www.linkedin.com/in/timothy-baney-b5293664" target="_blank">#}
+{#                                            <img src="/static/images/linkedin.png" alt="" style="width: 100%">#}
+{#                                        </a>#}
+{#                                    </div>#}
+{#                                    <div style="display: inline-block; width: 50px; height: 50px;">#}
+{#                                        <a href="https://twitter.com/timbaney1989?lang=en" target="_blank">#}
+{#                                            <img src="/static/images/twitter.png" alt="" style="width: 100%">#}
+{#                                        </a>#}
+{#                                    </div>#}
+{#                                    <div style="display: inline-block; width: 50px; height: 50px;">#}
+{#                                        <a href="http://stackoverflow.com/users/5159043/timothy-joseph-baney"#}
+{#                                           target="_blank">#}
+{#                                            <img src="/static/images/so-icon.png" alt="" style="width: 100%">#}
+{#                                        </a>#}
+{#                                    </div>#}
+{#                                    <div style="display: inline-block; width: 50px; height: 50px; margin-right: 5px;">#}
+{#                                        <a href="https://github.com/TJBANEY" target="_blank">#}
+{#                                            <img src="/static/images/github.png" alt="" style="width: 100%">#}
+{#                                        </a>#}
+{#                                    </div>#}
+                                </div>
                             </div>
                         </div>
                     </div>

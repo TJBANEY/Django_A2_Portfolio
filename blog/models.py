@@ -19,6 +19,8 @@ class Subscriber(models.Model):
 
 class BlogArticle(models.Model):
     title = models.CharField(max_length=255)
+
+    image = models.ImageField(null=True, blank=True, upload_to='media')
     body = models.TextField(null=True, blank=True)
     slug = models.SlugField()
     category = models.ForeignKey

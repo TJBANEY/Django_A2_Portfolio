@@ -1,3 +1,10 @@
+#skill-info {
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  width: 80%;
+  line-height: 1.2em;
+}
+
 .skill {
   float: left;
   cursor: pointer;

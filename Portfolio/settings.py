@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sitemaps',
     # Third Party Apps
     'rest_framework',
+    'suit',
     # My Apps
     'blog'
 ]

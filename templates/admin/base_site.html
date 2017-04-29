@@ -1,0 +1,22 @@
+{% extends 'suit/admin/base.html' %}
+
+
+{% block branding %}
+    <h1 id="site-name">
+        <a href="{% url 'admin:index' %}">
+            Baney.Dev
+            <span class="header-label">Admin</span></a>
+    </h1>
+{% endblock %}
+
+{% block footer_links %}
+
+{% endblock %}
+
+{% block copyright %}
+    Copyright &copy;
+    <span class="hidden-md-down">2013-</span>{% now "Y" %} MillCreekSoftware.biz
+    <br>Developed by
+    <a href="http://www.millcreeksoftware.biz" target="_blank">MillCreekSoftware Inc</a>
+{% endblock %}
+

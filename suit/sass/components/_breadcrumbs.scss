@@ -1,0 +1,24 @@
+.breadcrumbs {
+  padding: 1.5rem $nav-padding-horizontal 0;
+  font-size: $font-size-sm;
+  color: $header-muted-color;
+  body.change-list & {
+    display: none;
+  }
+  body.change-form & {
+    display: block;
+    position: relative;
+    z-index: 6;
+    li {
+      float: left;
+    }
+  }
+  a {
+    color: $link-color;
+    display: inline-block;
+    margin: 0 .2rem;
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}
